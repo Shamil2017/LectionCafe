@@ -1,0 +1,25 @@
+<resources>
+    <string name="tea">Чай</string>
+    <string name="coffee">Кофе</string>
+    <string name="milk">Молоко</string>
+    <string name="sugar">Сахар</string>
+    <string name="lemon">Лимон</string>
+    <string name="defaultName">клиент</string>
+    <string name="app_name">CafeOrder</string>
+    <string name="LogotypeCafe">Логотип кафе</string>
+    <string name="welcome">Добро пожаловать</string>
+    <string name="hintName">Введите ваше имя:</string>
+    <string name="hintPassword">Введите ваш пароль:</string>
+    <string name="CreateOrder">Создать заказ</string>
+    <string name="need_additions">Необходимые добавки:</string>
+    <string name="showWarning">Все поля должны быть заполнены</string>
+    <string-array name="optionsOfCoffee">
+        <item>Американо</item>
+        <item>Экспрессо</item>
+        <item>Латте</item>
+    </string-array>
+    <string-array name="optionsOfTea">
+        <item>Чёрный</item>
+        <item>Зелёный</item>
+    </string-array>
+</resources>
